@@ -1,0 +1,11 @@
+{
+    "name": "ignasiya/lesson-2",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
+    "require": {
+        "google/protobuf": "^4.26"
+    }
+}
