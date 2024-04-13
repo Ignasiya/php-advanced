@@ -1,6 +1,2 @@
-/lesson-1/composer.lock
-/lesson-1/vendor
-/lesson-2/composer.lock
-/lesson-2/vendor
-/lesson-3/composer.lock
-/lesson-3/vendor
+/lesson-*/composer.lock
+/lesson-*/vendor
